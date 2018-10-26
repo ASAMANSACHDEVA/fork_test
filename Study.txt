@@ -2,5 +2,5 @@ Ansible / Chef / puppet
 Kibana / Nagios / Logstash
 Managing of Apache, Nginx, Tomcat
 Zookeper / Marathon
-Work on MW container process and MQ container process
+Work on MW container process and MQ container process and 
 Go through the build and autoation scripts
